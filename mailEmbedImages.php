@@ -13,6 +13,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * The MIT License
  */
+
 class mailEmbedImages extends PluginBase {
     static protected $description = 'Embed all images as base64.';
     static protected $name = 'mailEmbedImages';
